@@ -99,6 +99,22 @@ Measure the outcome—not just the output
   <img src="https://raw.githubusercontent.com/arsumelahi21/arsumelahi21/output/github-contribution-grid-snake.svg" alt="Animated contribution graph" />
 </div>
 
+
+
+---
+
+## 🗂️ Featured project case studies
+
+Explore selected examples of my engineering work. These are high-level summaries that protect private repositories and confidential client information.
+
+| Project | Engineering focus |
+| --- | --- |
+| 🏢 [Enterprise SaaS Architecture](portfolio/enterprise-saas.md) | Multi-tenant platforms, authorization, scalable services, cloud delivery |
+| 🔗 [ERP & HR Systems Integration](portfolio/enterprise-integrations.md) | API integrations, synchronization, reconciliation, reliability |
+| 🤖 [AI-Powered Product Engineering](portfolio/ai-powered-products.md) | LLM APIs, retrieval, agent workflows, production safeguards |
+
+📚 **[Browse the complete engineering portfolio](portfolio/README.md)**
+
 ## 🤝 Let's connect
 
 I enjoy working with teams building **ambitious products, reliable platforms, and practical AI solutions**. I'm always interested in thoughtful conversations about software architecture, engineering leadership, and solving challenging product problems.
