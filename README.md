@@ -74,17 +74,31 @@ Production deployments, infrastructure optimization, performance improvements, a
 
 ## 🧭 How I approach engineering
 
-```text
-Understand the business problem
-           ↓
-Identify constraints and trade-offs
-           ↓
-Design the simplest reliable solution
-           ↓
-Build, test, observe, and iterate
-           ↓
-Measure the outcome—not just the output
+> **Great engineering starts with understanding the problem—not choosing the technology.**
+
+```mermaid
+flowchart LR
+    A["🎯 01 · DISCOVER<br/>Understand the business goal"] --> B["⚖️ 02 · EVALUATE<br/>Constraints, risks & trade-offs"]
+    B --> C["🏗️ 03 · ARCHITECT<br/>Design for clarity & reliability"]
+    C --> D["🚀 04 · DELIVER<br/>Build, validate & iterate"]
+    D --> E["📈 05 · MEASURE<br/>Outcomes over output"]
+    E -. "Learn & improve" .-> A
+
+    classDef focus fill:#0f172a,color:#ffffff,stroke:#38bdf8,stroke-width:2px;
+    classDef stage fill:#e0f2fe,color:#0f172a,stroke:#0284c7,stroke-width:1px;
+    classDef outcome fill:#dcfce7,color:#14532d,stroke:#16a34a,stroke-width:2px;
+    class A focus;
+    class B,C,D stage;
+    class E outcome;
 ```
+
+<div align="center">
+
+**Business-first thinking** · **Pragmatic architecture** · **Reliable delivery** · **Measurable impact**
+
+*The best solution isn't the most complex one. It's the one that solves the right problem and keeps working.*
+
+</div>
 
 ## 📈 GitHub activity
 
